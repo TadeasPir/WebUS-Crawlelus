@@ -1,0 +1,5 @@
+/.idea
+/.venv
+/articles.json
+/CodeSave.py
+articles/articles.json
